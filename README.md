@@ -1,3 +1,7 @@
+# angular_template
+
+A starter template for Angular application - includes almost all features/utilities required
+
 # AngularTemplate
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.12.
